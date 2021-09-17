@@ -4,7 +4,7 @@ CIS 120 Game Project README
 
 The Trial
 
-A single player, top-down beat-em-up RPG.
+A single player, top-down beat-em-up RPG. All game assets are my own creation.
 
 ============================
 =:Instructions for playing:=
