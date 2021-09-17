@@ -2,9 +2,15 @@
 CIS 120 Game Project README
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
-Instructions for playing:
+The Trial
 
-1. Run Game.java
+A single player, top-down beat-em-up RPG.
+
+============================
+=:Instructions for playing:=
+============================
+
+1. Run Game.java located in /src
 2. Enjoy : )
 
 ===================
